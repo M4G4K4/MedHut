@@ -1,2 +1,2 @@
 # MedHut
- Java swing medical clinic managment software
+ My first project in Java focused in medical clinical software 
